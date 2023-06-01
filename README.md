@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MadTubi
-- 👀 I’m interested in video games, books, and art.
-- 🌱 I’m currently learning how to code in python.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Madison.
+- 👀 I’m interested in video games, books,art, and coding.
+- 🌱 I’m currently practing on coding in HTML/CSS and Java as a refresher.
+- 💞️ I’m looking for a full time or partime position in web development or software engineering.
 - 📫 How to reach me my email is madtay324@gmail.com/
 
 <!---
