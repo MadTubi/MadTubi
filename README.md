@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, books,art, and coding.
 - 🌱 I’m currently refeshing my skills in Java and Python.
 - 💞️ I’m looking for a full time or partime position in web development or software development.
-- 📫 How to reach me my email is madtay324@gmail.com/
+
 
 <!---
 MadTubi/MadTubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
